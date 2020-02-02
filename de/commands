@@ -1,0 +1,3 @@
+*WIE*WIRD*DAS*WETTER*==say "$(jv_pg_ow_query_weather)"
+*VORHERSAGE*MORGEN*==say "$(jv_pg_ow_query_forecast 1)"
+*DIE*VORHERSAGE*FÜR (*) TAGE*==say "$(jv_pg_ow_query_forecast (1)"
