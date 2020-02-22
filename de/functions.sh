@@ -14,7 +14,7 @@ pg_ow_lang () {
         now_temp_is) echo "Die Temperatur ist: ";;
         max_temp_is) echo "Die maximale Temperatur ist: ";;
         min_temp_is) echo "Die minimale Temperatur ist: ";;
-        celsius) echo "Celsius";;
+        celsius) echo "Grad Celsius";;
         the_day) echo "Heute";;
         strong_wind_alert) echo "Pass auf den starken Wind auf!";;
         too_far_in_the_future) echo "Zu weit in der Zukunft";;
